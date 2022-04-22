@@ -12,9 +12,11 @@ In the past two weeks (one month actually), I've gone through a whirlwind of net
 
 I've never really been committed fully to working with recruiting agencies and going after their tips and I've been asked to dig deep in areas which I've only superficially covered (on average 2-3 times a week).
 
-I've worked through 3 assignments similar to this one (completely different areas: NLP, deep learning, and data pipeline system design) which were allocated a longer time (so more work)...
+I've worked through 3 assignments similar to this one (completely different areas: NLP, deep learning, and a combination of data engineering, web development + ML engineering) which were allocated a longer time (so more work)...
 
-I am definitely looking to work more on my software development and contribution skills, to get in the pace of creation. Unfortunately, I've been mostly a hands-off high level manager for the past year (with the exception of a few projects: ~6, week long or day long projects).
+I am definitely looking to get into the competitive engineering space, and first is to get in the pace of creation/look at opportunities to contribute (So, I really did enjoy putting time into this assignment; wish I'd work on it more fully).
+
+Unfortunately, I've been mostly a hands-off high level manager for the past year (with the exception of a few projects: ~6, week long or day long projects).
 
 ## Summaries
 
