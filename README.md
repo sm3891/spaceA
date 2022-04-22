@@ -33,11 +33,11 @@ Geospatial Comprehension:
 >*I think you might be looking at bi-directional A\* search?*
 
 ## Final comments
-This is a great synthetic data set! I really enjoyed working with it and being able to make changes according to every possible consideration (for how to deal with missing data).
+This is a great synthetic data set! I really enjoyed working with it and being able to make changes according to every possible consideration (for how to deal with missing data column by column, independently).
 
-For the fancier processing (in a real life application), I would look at manifold learning to "recover" the missing data.
+For the fancier processing (given real life data), I would look at manifold learning to "recover" the missing data.
 
 Also, I would look at evolutionary survival of the best performing model and ensemble techniques for "continual" machine-learning based price estimation.
 
-* **Immediate work** to do additionally perhaps is geographical plotting of the data, and visualization techniques.
-* I really wanted to look at the **recommended libraries** and work with graphical data. It's one of the things I like to do.
+* **Immediate work** to-do additionally is geographical plotting of the data, and visualization techniques. Spatial summarization and description algorithms/techniques.
+* I really wanted to look at the **recommended libraries** and work with the graphical data. I like graphs.
